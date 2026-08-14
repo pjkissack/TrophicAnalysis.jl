@@ -15,7 +15,7 @@ Please cite [1] upon use of this module, and additionally [2] upon use of the tr
 
 #### REFERENCES
 
-[1] Kissack, P., Drysdale, C. and Johnson, S. (202x).
+[1] Kissack, P., Drysdale, C. and Johnson, S. (2026). Trophic structure predicts seizure propagation in brain network models. arXiv:2608.12382 [q-bio]. https://doi.org/10.48550/arXiv.2608.12382
 
 [2] MacKay, R. S., Johnson, S., Sansom, B. (2020). How directed is a directed network?. R Soc Open Sci. 7 (9): 201138. https://doi.org/10.1098/rsos.201138
 
